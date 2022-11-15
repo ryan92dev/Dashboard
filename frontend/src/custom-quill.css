@@ -1,0 +1,17 @@
+.ql-toolbar.ql-snow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--bg-primary);
+  border-radius: 10px;
+  border: none !important;
+  margin-bottom: 30px;
+}
+
+.ql-container.ql-snow {
+  border: none !important;
+}
